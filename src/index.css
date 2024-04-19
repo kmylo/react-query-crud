@@ -74,3 +74,9 @@ button:focus-visible {
   flex-direction: column;
   gap: 10px;
 }
+
+.product{
+  border: 1px solid #ae00ff;
+  margin: 5px;
+  padding: 10px 20px;
+}

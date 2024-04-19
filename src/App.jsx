@@ -6,6 +6,7 @@ const App = () => {
     <>
     <h1>@FaztCode - React Query CRUD</h1>
     <ProductForm />
+    <hr />
     <Products />
   </>
   );
