@@ -23,7 +23,7 @@ const ProductForm = () => {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form onSubmit={handleSubmit} className="product-form">
       <label htmlFor="name">Name</label>
       <input type="text" name="name" id="name" />
       <label htmlFor="price">Price</label>
